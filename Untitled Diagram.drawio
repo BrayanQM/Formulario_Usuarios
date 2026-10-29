@@ -1,0 +1,102 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="C4YpHnKg015pIAtpVRKX">
+    <mxGraphModel dx="806" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0nkTrEWD9snkJ06_Vhko-24" edge="1" parent="1" source="0nkTrEWD9snkJ06_Vhko-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="0nkTrEWD9snkJ06_Vhko-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="210" />
+              <mxPoint x="202.5" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0nkTrEWD9snkJ06_Vhko-25" edge="1" parent="1" source="0nkTrEWD9snkJ06_Vhko-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0nkTrEWD9snkJ06_Vhko-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="210" />
+              <mxPoint x="600" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0nkTrEWD9snkJ06_Vhko-27" edge="1" parent="1" source="0nkTrEWD9snkJ06_Vhko-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0nkTrEWD9snkJ06_Vhko-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="240" />
+              <mxPoint x="505" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0nkTrEWD9snkJ06_Vhko-1" parent="1" style="html=1;whiteSpace=wrap;" value="&lt;b&gt;PRPDUCTO&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="305" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="0nkTrEWD9snkJ06_Vhko-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Tecnica Ingenieria&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;El Motor De juego no tiene generacion De Terrenos Procedurales&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="150" x="80" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="0nkTrEWD9snkJ06_Vhko-20" edge="1" parent="1" source="0nkTrEWD9snkJ06_Vhko-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="0nkTrEWD9snkJ06_Vhko-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0nkTrEWD9snkJ06_Vhko-6" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Diseño De Juego&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Aun no se define cual va ser el ciclo Principal del Juego (sovrevivir, minar, Contruir&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="160" x="280" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="0nkTrEWD9snkJ06_Vhko-7" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;MVP&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Aun no se tiene un MVP del producto en donde se esta progrmando Todo a la vez Por falta de diseño&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="160" x="470" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="0nkTrEWD9snkJ06_Vhko-8" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Tecnica de Ingenieria&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;El juego Como tal aun no tiene terrenos modificables o que pueda ser libre&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="150" x="90" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0nkTrEWD9snkJ06_Vhko-9" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Diseño del Juego&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;El juego como tal no se puede hacer nada que no sea solo caminar no tiene mecanicas para el jugador&lt;b&gt;&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="150" x="300" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0nkTrEWD9snkJ06_Vhko-10" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;MVP&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;El proyecto como tal se centra en el metodo Play Testing, en donde no se tiene un producto para entrevistas, testing de errores&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="160" x="520" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0nkTrEWD9snkJ06_Vhko-22" edge="1" parent="1" source="0nkTrEWD9snkJ06_Vhko-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="0nkTrEWD9snkJ06_Vhko-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="297.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0nkTrEWD9snkJ06_Vhko-11" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Inteligencia Artificial&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Los agentes del juego no tienen una ia diseñada en la que falta el comportamiento individual&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="160" x="120" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="0nkTrEWD9snkJ06_Vhko-23" edge="1" parent="1" source="0nkTrEWD9snkJ06_Vhko-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="0nkTrEWD9snkJ06_Vhko-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0nkTrEWD9snkJ06_Vhko-12" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Agentes&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;No se tiene perosonajes como la (flora y fauna)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Por que crear cada diseñotoma mucho tiempo&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="160" x="375" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="0nkTrEWD9snkJ06_Vhko-14" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Inteligencia Artificial&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Los agentes no van a ser nada ni enteractuar con el entorno que les rodea&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="160" x="190" y="-50" as="geometry" />
+        </mxCell>
+        <mxCell id="0nkTrEWD9snkJ06_Vhko-16" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Agentes&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Fauna Flora minimos en donde el mundo va ser muy vacio y no llegar a crear o contruir con lo que se necesita&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="160" x="425" y="-50" as="geometry" />
+        </mxCell>
+        <mxCell id="0nkTrEWD9snkJ06_Vhko-19" edge="1" parent="1" source="0nkTrEWD9snkJ06_Vhko-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.103;entryY=1.042;entryDx=0;entryDy=0;entryPerimeter=0;" target="0nkTrEWD9snkJ06_Vhko-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0nkTrEWD9snkJ06_Vhko-21" edge="1" parent="1" source="0nkTrEWD9snkJ06_Vhko-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.922;entryY=1.086;entryDx=0;entryDy=0;entryPerimeter=0;" target="0nkTrEWD9snkJ06_Vhko-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="350" />
+              <mxPoint x="406.4" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0nkTrEWD9snkJ06_Vhko-28" edge="1" parent="1" source="0nkTrEWD9snkJ06_Vhko-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.457;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" target="0nkTrEWD9snkJ06_Vhko-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="240" />
+              <mxPoint x="263.1" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0nkTrEWD9snkJ06_Vhko-30" edge="1" parent="1" source="0nkTrEWD9snkJ06_Vhko-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.396;entryY=1.023;entryDx=0;entryDy=0;entryPerimeter=0;" target="0nkTrEWD9snkJ06_Vhko-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
